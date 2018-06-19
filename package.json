@@ -1,0 +1,19 @@
+{
+  "name": "@altoros/npme-test-package",
+  "version": "1.0.0",
+  "description": "nothing to add",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonShevchenko84/npme-test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonShevchenko84/npme-test-package/issues"
+  },
+  "homepage": "https://github.com/AntonShevchenko84/npme-test-package#readme"
+}
